@@ -1,0 +1,1 @@
+CREATE INDEX bug.idx_target ON bug.target(bug."FUN_IS_DELETED"("DELETED_ON_UTC"));
